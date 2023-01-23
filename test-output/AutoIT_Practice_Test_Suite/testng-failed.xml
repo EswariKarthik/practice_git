@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutoIT_Practice_Test_Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression_Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.actitime.tests.LoginTest">
+        <methods>
+          <include name="endTest"/>
+          <include name="startSuite"/>
+          <include name="loginPageErrorTest"/>
+          <include name="startTest"/>
+          <include name="loginPageTest"/>
+        </methods>
+      </class> <!-- com.actitime.tests.LoginTest -->
+    </classes>
+  </test> <!-- Regression_Test(failed) -->
+</suite> <!-- Failed suite [AutoIT_Practice_Test_Suite] -->

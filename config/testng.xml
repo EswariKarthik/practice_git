@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<!--Suite Definition Starts-->
+<suite name="AutoIT_Practice_Test_Suite">
+	<!--Test Definition Start-->
+	<test name="Regression_Test">
+	<parameter name="browser" value="chrome"></parameter>
+		<!--Group Definition Start-->
+		<!--<groups>
+			<run>
+				<include name="login" />
+				<include name="fs_eToe" />
+			</run>
+		</groups>-->
+		<!--Group Definition End-->
+		<!--Class List Start-->
+		<classes>
+			<class name="com.actitime.tests.LoginTest"/>
+		</classes>
+		<!--Class List Ends-->
+	</test>
+	<!--Test Definition Ends-->
+</suite>
+<!--Suite Definition Ends-->	
