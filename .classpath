@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="src/|config/|drivers/|lib/|testdata/" kind="src" path=""/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="src" path="drivers"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="testdata"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/async-http-client-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/async-http-client-netty-utils-2.12.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/auto-common-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/auto-service-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/auto-service-annotations-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/byte-buddy-1.12.18.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/checker-qual-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/error_prone_annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/failsafe-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/failureaccess-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/guava-31.1-jre.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/j2objc-annotations-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/jakarta.activation-1.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/jcommander-1.82.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/jsr305-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/jtoml-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-buffer-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-codec-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-codec-http-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-codec-socks-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-common-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-handler-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-handler-proxy-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-reactive-streams-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-resolver-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-transport-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-transport-classes-epoll-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-transport-classes-kqueue-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-transport-native-epoll-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-transport-native-kqueue-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/netty-transport-native-unix-common-4.1.84.Final.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-api-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-api-logs-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-context-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-exporter-common-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-exporter-logging-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-common-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-extension-autoconfigure-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-logs-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-metrics-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-sdk-trace-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/opentelemetry-semconv-1.19.0-alpha.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/reactive-streams-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/lib/slf4j-api-2.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-api-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-api-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-chrome-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-chrome-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-chromium-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-chromium-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v85-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v85-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v106-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v106-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v107-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v107-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v108-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-devtools-v108-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-edge-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-edge-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-firefox-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-firefox-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-http-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-http-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-ie-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-ie-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-java-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-java-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-json-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-json-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-manager-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-manager-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-remote-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-remote-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-safari-driver-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-safari-driver-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-support-4.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/selenium_jars/selenium-support-4.7.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/My Docs/GitPractice/SeleniumPractice/lib/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
